@@ -31,7 +31,7 @@ Vill du använda någon annan miljö t.ex. google docs för att skriva din dokum
 3. Granska det du gjort för att undvika enkla fel och brister. Några saker att titta på:
 
 * Stavning och formatering
-* Är problem/idé-beskrivningen kort och koncis men ändå fullständig? Kan någon annan förstå förstå problemet/idén?
+* Är problem/idé-beskrivningen kort och koncis men ändå fullständig? Kan någon annan förstå problemet/idén?
 * Finns det någon bakgrund till projektet, något gammalt system?
 * Finns det olika användargrupper? Är dessa väl avgränsade, beskrivna och realistiska? Bör man ytterligare dela upp användargrupperna?
 * Finns det någon användare omnämnd i problem/idé beskrivning som inte finns med?
